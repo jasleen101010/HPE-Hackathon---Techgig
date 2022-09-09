@@ -1,6 +1,8 @@
 # HPE-Hackathon-Techgig
 This repository contains the solution submitted in the final round of the HPE Machine Learning Hackathon organised by Techgig.
-![](https://drive.google.com/file/d/1gqRhLX7Nz4hZD33J6Pt_r30K3KnRRU5_/view?usp=sharing)
+
+
+
 
 Objective:
 The candidates have to read the data and create a model based on the data analysis to identify if the website is legitimate or a phishing website. The Result will be determined by the two values [1, -1] where 1 represent the legitimate and -1 represents phishing
@@ -33,3 +35,11 @@ Approach:
 -	Compare the performance of the models
 -	Save the top performing model and run it on sample test data
 -	Save the results
+
+🌞Newsflash- My team of three ranked 27th, 28th and 29th respectively out of almost 8000 participants and we got felicitated by the Dean and Director of CHRIST (Deemed to be University) Pune Lavasa Campus🥳
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/jasleen101010/HPE-Hackathon-Techgig/blob/main/assets/award%201.JPG) | ![](https://github.com/jasleen101010/HPE-Hackathon-Techgig/blob/main/assets/award%202.JPG)
+
+
